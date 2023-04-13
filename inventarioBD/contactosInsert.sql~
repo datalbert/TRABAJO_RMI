@@ -1,4 +1,0 @@
-INSERT INTO CONTACTOS (num, nombre, apellidos, email, telefono) VALUES
-            (1,'Manuel','Fernandez','mfernandez@gmail.com','777454647');
-INSERT INTO CONTACTOS (num, nombre, apellidos, email, telefono) VALUES
-            (2,'Marcos','Rodriguez','mrodriguez@gmail.com','888454647');
